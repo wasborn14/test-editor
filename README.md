@@ -2,5 +2,5 @@
 test-editorアプリのテストブランチ
 
 test
-test
+test2
 test
